@@ -16,7 +16,7 @@
 
     height:70px;
     width: 150px;
-    margin-left: 15px;
+    margin-left: 5px;
     
    
 }
@@ -229,11 +229,6 @@ grid-template-columns: repeat(4 , 1fr);
 }
 
 
-.
-.cover{
-    width: 100%;
-   
-}
 
 
 .cover img{
