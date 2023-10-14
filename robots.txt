@@ -1,0 +1,5 @@
+# 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://wasselleg.netlify.app/sitemap.xml
